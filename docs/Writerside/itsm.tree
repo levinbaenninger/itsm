@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="itsm"
+                  name="ITSM" start-page="Cherwell.md">
+
+    <toc-element topic="Ueberblick.topic"/>
+    <toc-element topic="ITIL.md">
+        <toc-element toc-title="Grundlagen">
+            <toc-element topic="Struktur-von-ITIL.md"/>
+            <toc-element topic="IT-Service-Lifecycle.md"/>
+            <toc-element topic="Service-Management-und-Services.md"/>
+            <toc-element topic="Funktionen-Rollen-und-Prozesse.md">
+                <toc-element topic="Verwantwortung-übernehmen.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Service-Strategy">
+            <toc-element topic="Zielsetzung.md"/>
+            <toc-element topic="Konzepte.md"/>
+            <toc-element topic="Prinzipien.md"/>
+            <toc-element toc-title="Prozesse">
+                <toc-element topic="Strategy-Management.md"/>
+                <toc-element topic="Service-Portfolio-Management.md"/>
+                <toc-element topic="Business.md"/>
+                <toc-element topic="Demand-Management.md"/>
+                <toc-element topic="Financial-Management.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Service-Design">
+            <toc-element topic="Zielsetzung-und-Kernkonzepte.md"/>
+            <toc-element topic="Aspekte.md"/>
+            <toc-element toc-title="Prozesse">
+                <toc-element topic="Design-Coordination.md"/>
+                <toc-element topic="Service-Level-Management.md"/>
+                <toc-element topic="Service-Catalogue-Management.md"/>
+                <toc-element topic="Availability-Management.md"/>
+                <toc-element topic="Capacity-Management.md"/>
+                <toc-element topic="IT-Service-Continuity-Management.md"/>
+                <toc-element topic="Information-Security-Management.md"/>
+                <toc-element topic="Supplier-Management.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Service-Transition">
+            <toc-element topic="Zielsetzung-und-Kernkonzepte-Transition.md"/>
+            <toc-element toc-title="Prozesse"/>
+        </toc-element>
+        <toc-element toc-title="Service-Operation">
+            <toc-element toc-title="Funktionen"/>
+            <toc-element toc-title="Prozesse"/>
+        </toc-element>
+        <toc-element toc-title="Continual Service Improvement"/>
+    </toc-element>
+    <toc-element topic="Ivanti.md">
+        <toc-element topic="Remote-Control.md"/>
+        <toc-element topic="Inventory.md"/>
+        <toc-element topic="Software-Installation.md"/>
+    </toc-element>
+    <toc-element topic="Cherwell.md">
+        <toc-element topic="My-Work.md">
+        </toc-element>
+        <toc-element topic="My-teamn.md"/>
+        <toc-element topic="CMDB.md"/>
+        <toc-element topic="KPI.md"/>
+        <toc-element toc-title="Ticket" >
+            <toc-element topic="Neues-Ticket.md"/>
+            <toc-element topic="An-Ticket-arbeiten.md"/>
+            <toc-element topic="Journal.md"/>
+            <toc-element topic="Approval.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Clippy.md"/>
+    <toc-element toc-title="Interkulturelle Schulung">
+        <toc-element topic="Regeln.md"/>
+        <toc-element topic="Kastensystem.md"/>
+        <toc-element topic="Charaktereigenschaften.md"/>
+        <toc-element topic="Werte.md"/>
+        <toc-element topic="Interkulturelle-Konflikte.md"/>
+        <toc-element topic="Gespräche.md"/>
+        <toc-element topic="Meetings.md"/>
+        <toc-element topic="Do-s-and-Don-ts.md"/>
+    </toc-element>
+</instance-profile>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4023f069">
+        <description>Created after removal of "Aufbau" from ITP81</description>
+        <accepts>UI.html</accepts>
+    </rule>
+    <rule id="7001ac70">
+        <description>Created after removal of "Services" from ITP81</description>
+        <accepts>Services.html</accepts>
+    </rule>
+    <rule id="490114b">
+        <description>Created after removal of "Services" from ITP81</description>
+        <accepts>Services.html</accepts>
+    </rule>
+    <rule id="3b21d139">
+        <description>Created after removal of "Device Management" from ITSM</description>
+        <accepts>Device-Management.html</accepts>
+    </rule>
+</rules>
