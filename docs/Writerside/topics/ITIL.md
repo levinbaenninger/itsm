@@ -1,4 +1,4 @@
-# ITIL
+# ITIL®
 
 **ITIL** steht für **Information Technology Infrastructure Library** und ist ein Framework für effektives IT Service Management (ITSM). Es besteht aus bewährten Richtlinien, die darauf abzielen, IT-Services qualitativ hochwertig und kundenorientiert zu gestalten. ITIL hat sich als De-facto-Standard in Europa und den USA etabliert.
 
