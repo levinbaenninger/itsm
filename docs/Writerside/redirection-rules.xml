@@ -22,4 +22,8 @@
         <description>Created after removal of "Device Management" from ITSM</description>
         <accepts>Device-Management.html</accepts>
     </rule>
+    <rule id="6dcd5411">
+        <description>Created after removal of "Weitere allgemeine Management Practices" from ITSM</description>
+        <accepts>Weitere-allgemein-Management-Practices.html</accepts>
+    </rule>
 </rules>

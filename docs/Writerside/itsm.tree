@@ -87,6 +87,23 @@
                 <toc-element topic="Auf-Einfachheit-und-Praktikabilität.md"/>
                 <toc-element topic="Optimieren-und-Automatisieren.md"/>
             </toc-element>
+            <toc-element topic="Service-Wertschöpfungskette.md"/>
+            <toc-element topic="ITIL-Management-Practices.md">
+                <toc-element topic="Allgemeine-Management-Practices.md">
+                    <toc-element topic="Continual-Improvement.md"/>
+                    <toc-element topic="Relationship-Management.md"/>
+                    <toc-element topic="Supplier-Management-4.md"/>
+                    <toc-element topic="Information-Security-Management-4.md"/>
+                </toc-element>
+                <toc-element topic="Service-Management-Practices.md">
+                    <toc-element topic="Change-Enablement.md"/>
+                    <toc-element topic="Incident-und-Problem-Management.md"/>
+                    <toc-element topic="Service-Desk-4.md"/>
+                    <toc-element topic="Service-Request-Management.md"/>
+                </toc-element>
+                <toc-element topic="Technische-Management-Practices.md"/>
+                <toc-element topic="Beispiel.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
     <toc-element topic="Cherwell.md">
