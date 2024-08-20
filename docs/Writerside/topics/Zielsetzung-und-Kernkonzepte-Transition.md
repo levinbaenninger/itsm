@@ -29,7 +29,7 @@ Das Kapitel **Service Transition** im ITIL-Framework bietet Anregungen und Leitl
     - **Transfer von Services:** Beachtung von Trends zu Outsourcing und Insourcing und deren handhabung.
 
 4. **Änderung des Service Managements:**
-    - **Service Management Änderungen:** Implementierung von Änderungen in der Art wie die Organisation arbeitet, einschließlich Struktur, Mitglieder, Projekte und Drittparteien.
+    - **Service Management Änderungen:** Implementierung von Änderungen in der Art wie die Organisation arbeitet, einschliesslich Struktur, Mitglieder, Projekte und Drittparteien.
 
 ## Wichtige Leitlinien
 

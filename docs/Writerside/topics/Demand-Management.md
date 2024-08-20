@@ -6,7 +6,7 @@
 
 1. **Anpassung der Kapazität:**
     - **Bedarfsgerechte Kapazität:** Bereitstellung von Ressourcen, z. B. mehr Mitarbeiter am Service Desk, um dem aktuellen Bedarf gerecht zu werden.
-    - **Gleichmässige Auslastung:** Anreize setzen, um die vorhandenen Kapazitäten gleichmäßiger auszulasten.
+    - **Gleichmässige Auslastung:** Anreize setzen, um die vorhandenen Kapazitäten gleichmässiger auszulasten.
 
 2. **Strategische und taktische Ansätze:**
     - **Geschäftsaktivitätsmuster:** Strategische Analyse der Aktivitätsmuster, um zukünftige Bedarfe vorherzusagen.

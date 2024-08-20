@@ -16,4 +16,4 @@
 - **Business Analysis:** Fokussiert sich auf betriebswirtschaftliche Zahlen im Bereich neugeplanter Services.
 - **Service Catalogue Management:** Pflegt den Service-Katalog, ein Verzeichnis aller aktiven Services.
 - **Service Design:** Ein übergeordnetes Framework für die Gestaltung von Services.
-- **Service Validation and Testing:** Notwendig für die Umsetzung komplexer Services und regelmäßige Testphasen.
+- **Service Validation and Testing:** Notwendig für die Umsetzung komplexer Services und regelmässige Testphasen.

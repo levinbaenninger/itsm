@@ -14,11 +14,11 @@ Der Prozess des **Supplier Management** ist verantwortlich für die Verhandlunge
 ## Aufgaben und Verantwortlichkeiten
 
 1. **Verhandlung und Erstellung von Verträgen:**
-    - **Verhandlungen:** Aushandeln von Verträgen, die den Anforderungen des Business entsprechen, einschließlich Servicezeiten und Service Levels.
+    - **Verhandlungen:** Aushandeln von Verträgen, die den Anforderungen des Business entsprechen, einschliesslich Servicezeiten und Service Levels.
     - **Vertragsverwaltung:** Verwaltung und Überwachung der Einhaltung der Verträge.
 
 2. **Überprüfung der Lieferantenleistungen:**
-    - **Leistungsbewertung:** Regelmäßige Überprüfungen zur Bewertung der Qualität und Leistung der Lieferanten.
+    - **Leistungsbewertung:** Regelmässige Überprüfungen zur Bewertung der Qualität und Leistung der Lieferanten.
     - **Performance-Management:** Sicherstellen, dass Lieferanten durch ihre Leistungen die IT-Service-Ziele unterstützen.
 
 3. **Integration in den Lebenszyklus:**
@@ -26,6 +26,6 @@ Der Prozess des **Supplier Management** ist verantwortlich für die Verhandlunge
 
 4. **Dokumentation und Informationsmanagement:**
     - **Supplier and Contract Management Information System (SCMIS):** Speichern von Informationen wie Verträgen, Supplier-Richtlinien und Leistungsbewertungen in einem zentralen System.
-    - **Zusammenarbeit mit Rechtsabteilung:** In großen Organisationen wird IT oft bei der Vertragsverwaltung von der Rechtsabteilung unterstützt.
+    - **Zusammenarbeit mit Rechtsabteilung:** In grossen Organisationen wird IT oft bei der Vertragsverwaltung von der Rechtsabteilung unterstützt.
 
 Das **Supplier Management** ist entscheidend dafür, dass externe Lieferanten durch ihre Dienstleistungen die Qualität und Ziele der IT-Services unterstützen. Dies geschieht durch sorgfältige Verhandlungen, kontinuierliche Überprüfung der Leistung und Verwaltung der Verträge. Ein zentrales Ziel des Supplier Managements ist es, kostengünstige, qualitativ hochwertige Leistungen zu sichern und sicherzustellen, dass die extern bezogenen Services mit den Business-Anforderungen in Einklang stehen. Ein Supplier and Contract Management Information System (SCMIS)

@@ -1,6 +1,6 @@
 # Release- und Deployment-Management
 
-Der Prozess **Release and Deployment Management** ist verantwortlich für den Aufbau, die Tests, das Deployment und die erste Unterstützung neuer oder geänderter Services. Ziel ist es, Services gemäß des Service Designs zu liefern, die die Anforderungen der Stakeholder erfüllen und die gewünschten Ziele erreichen.
+Der Prozess **Release and Deployment Management** ist verantwortlich für den Aufbau, die Tests, das Deployment und die erste Unterstützung neuer oder geänderter Services. Ziel ist es, Services gemäss des Service Designs zu liefern, die die Anforderungen der Stakeholder erfüllen und die gewünschten Ziele erreichen.
 
 ## Hauptziele und Zweck
 
@@ -13,7 +13,7 @@ Der Prozess **Release and Deployment Management** ist verantwortlich für den Au
     - **Dokumentation im CMS:** Vollständige Dokumentation des Release Packages und dessen Komponenten im Configuration Management System (CMS).
 
 3. **Test und Implementierung:**
-    - **Tests:** Aufbau und Tests des Service gemäß Service Design.
+    - **Tests:** Aufbau und Tests des Service gemäss Service Design.
     - **Backout Plan:** Sicherstellung der Durchführbarkeit des Backout-Plans, falls die Implementierung fehlschlägt.
 
 4. **Erste Unterstützung:**
@@ -25,7 +25,7 @@ Der Prozess **Release and Deployment Management** ist verantwortlich für den Au
     - **Zeitliche Planung:** Berücksichtigung der zeitlichen Vorgaben aus dem Service Design Package.
     - **Release-Strategien:**
         - **Big Bang:** Ein neuer oder geänderter Service wird an alle Nutzer gleichzeitig verteilt.
-        - **Phasenorientiert:** Der Service wird zuerst an eine Nutzergruppe und dann gemäß Rollout-Plan an weitere Nutzergruppen verteilt.
+        - **Phasenorientiert:** Der Service wird zuerst an eine Nutzergruppe und dann gemäss Rollout-Plan an weitere Nutzergruppen verteilt.
 
 2. **Deployment-Strategien:**
     - **Pull-Ansatz:** Nutzer können den Zeitpunkt des Updates selbst wählen, oft genutzt bei nicht sicherheitsrelevanten Updates.

@@ -47,6 +47,6 @@ Der **Service Asset and Configuration Management** (SACM)-Prozess ist verantwort
     - **Transparenz:** Bessere Kostentransparenz durch die Identifizierung und Dokumentation aller für einen Service notwendigen Assets.
 
 3. **Prozessunterstützung:**
-    - **Datenbereitstellung:** Nutzung der im CMS und SKMS gespeicherten Daten zur Unterstützung von Finanzsystemen und anderen Prozessen außerhalb des Configuration Managements.
+    - **Datenbereitstellung:** Nutzung der im CMS und SKMS gespeicherten Daten zur Unterstützung von Finanzsystemen und anderen Prozessen ausserhalb des Configuration Managements.
 
 Der **Service Asset and Configuration Management** (SACM)-Prozess ist von zentraler Bedeutung für die effektive Verwaltung und Dokumentation aller Assets und deren Beziehungen, die zur Erbringung von IT-Services notwendig sind. Durch die umfassende Erfassung und Kontrolle dieser Assets über ihren gesamten Lebenszyklus hinweg kann die Nutzung optimiert, der Support erleichtert und die Kosten besser kontrolliert werden. Automatisierte Prozesse zur Erfassung und Aktualisierung von CIs tragen zur Minimierung von Fehlern und zur Steigerung der Effizienz bei. Die nahtlose Integration von SACM in ein Configuration Management System (CMS) und dessen potenzielle Erweiterung zu einem Service Knowledge Management System (SKMS) schafft eine solide Grundlage für optimierte IT-Service-Management-Prozesse.

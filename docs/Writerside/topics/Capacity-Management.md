@@ -37,6 +37,6 @@ Der **Capacity Management**-Prozess ist dafür verantwortlich, sicherzustellen, 
 ## Integration und Schnittstellen
 
 - **Business Relationship Management und Service Level Management:** Zusammenarbeit zur Erhebung und Umsetzung von Anforderungen.
-- **Leistungsfähigkeit:** Planung und Zuteilung der Ressourcenleistung gemäß der Vereinbarungen in SLAs, OLAs und UCs.
+- **Leistungsfähigkeit:** Planung und Zuteilung der Ressourcenleistung gemäss der Vereinbarungen in SLAs, OLAs und UCs.
 
 Der **Capacity Management**-Prozess ist essenziell, um sicherzustellen, dass IT-Services die erforderliche Kapazität haben, um aktuelle und zukünftige Geschäftsanforderungen zu erfüllen. Dies geschieht durch die Planung, Überwachung und Verwaltung von IT-Ressourcen auf verschiedenen Ebenen – von der strategischen Geschäftsübersetzung bis zur detaillierten Komponentenverwaltung. Durch effektives Capacity Management werden Kosteneffizienz und angemessene Servicequalität gewährleistet, was für den langfristigen Erfolg eines Service Providers von entscheidender Bedeutung ist.
