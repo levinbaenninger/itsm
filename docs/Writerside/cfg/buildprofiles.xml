@@ -5,6 +5,9 @@
 
     <variables>
         <primary-color>deep-ocean</primary-color>
+        <algolia-id>ABDXKZH0RE</algolia-id>
+        <algolia-index>prod_ITSM</algolia-index>
+        <algolia-api-key>0bf7c782a54aea245caf69000aa36a06</algolia-api-key>
     </variables>
     <build-profile instance="itsm">
         <variables>
