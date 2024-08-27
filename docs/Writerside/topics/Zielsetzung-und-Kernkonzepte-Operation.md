@@ -1,2 +1,0 @@
-# Zielsetzung und Kernkonzepte
-

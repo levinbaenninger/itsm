@@ -9,67 +9,51 @@
     <toc-element topic="ITIL.md">
         <toc-element toc-title="Grundlagen">
             <toc-element topic="Struktur-von-ITIL.md"/>
-            <toc-element topic="IT-Service-Lifecycle.md"/>
             <toc-element topic="Service-Management-und-Services.md"/>
+        </toc-element>
+        <toc-element toc-title="ITIL® 3">
+            <toc-element topic="IT-Service-Lifecycle.md"/>
             <toc-element topic="Funktionen-Rollen-und-Prozesse.md">
                 <toc-element topic="Verwantwortung-übernehmen.md"/>
             </toc-element>
-        </toc-element>
-        <toc-element toc-title="Service-Strategy">
-            <toc-element topic="Zielsetzung.md"/>
-            <toc-element topic="Konzepte.md"/>
-            <toc-element topic="Prinzipien.md"/>
-            <toc-element toc-title="Prozesse">
-                <toc-element topic="Strategy-Management.md"/>
-                <toc-element topic="Service-Portfolio-Management.md"/>
-                <toc-element topic="Business.md"/>
-                <toc-element topic="Demand-Management.md"/>
-                <toc-element topic="Financial-Management.md"/>
+            <toc-element toc-title="Service-Transition">
+                <toc-element topic="Zielsetzung-und-Kernkonzepte-Transition.md"/>
+                <toc-element topic="Überblick.md"/>
+                <toc-element toc-title="Prozesse">
+                    <toc-element topic="Transition-Planning-and-Support.md"/>
+                    <toc-element topic="Change-Management.md"/>
+                    <toc-element topic="Service-Asset-und-Configuration-Management.md"/>
+                    <toc-element topic="Release-und-Deployment-Management.md"/>
+                    <toc-element topic="Knowledge-Management.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="Service-Design">
+                <toc-element topic="Zielsetzung-und-Kernkonzepte.md"/>
+                <toc-element topic="Aspekte.md"/>
+                <toc-element toc-title="Prozesse">
+                    <toc-element topic="Design-Coordination.md"/>
+                    <toc-element topic="Service-Level-Management.md"/>
+                    <toc-element topic="Service-Catalogue-Management.md"/>
+                    <toc-element topic="Availability-Management.md"/>
+                    <toc-element topic="Capacity-Management.md"/>
+                    <toc-element topic="IT-Service-Continuity-Management.md"/>
+                    <toc-element topic="Information-Security-Management.md"/>
+                    <toc-element topic="Supplier-Management.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="Service-Strategy">
+                <toc-element topic="Zielsetzung.md"/>
+                <toc-element topic="Konzepte.md"/>
+                <toc-element topic="Prinzipien.md"/>
+                <toc-element toc-title="Prozesse">
+                    <toc-element topic="Strategy-Management.md"/>
+                    <toc-element topic="Service-Portfolio-Management.md"/>
+                    <toc-element topic="Business.md"/>
+                    <toc-element topic="Demand-Management.md"/>
+                    <toc-element topic="Financial-Management.md"/>
+                </toc-element>
             </toc-element>
         </toc-element>
-        <toc-element toc-title="Service-Design">
-            <toc-element topic="Zielsetzung-und-Kernkonzepte.md"/>
-            <toc-element topic="Aspekte.md"/>
-            <toc-element toc-title="Prozesse">
-                <toc-element topic="Design-Coordination.md"/>
-                <toc-element topic="Service-Level-Management.md"/>
-                <toc-element topic="Service-Catalogue-Management.md"/>
-                <toc-element topic="Availability-Management.md"/>
-                <toc-element topic="Capacity-Management.md"/>
-                <toc-element topic="IT-Service-Continuity-Management.md"/>
-                <toc-element topic="Information-Security-Management.md"/>
-                <toc-element topic="Supplier-Management.md"/>
-            </toc-element>
-        </toc-element>
-        <toc-element toc-title="Service-Transition">
-            <toc-element topic="Zielsetzung-und-Kernkonzepte-Transition.md"/>
-            <toc-element topic="Überblick.md"/>
-            <toc-element toc-title="Prozesse">
-                <toc-element topic="Transition-Planning-and-Support.md"/>
-                <toc-element topic="Change-Management.md"/>
-                <toc-element topic="Service-Asset-und-Configuration-Management.md"/>
-                <toc-element topic="Release-und-Deployment-Management.md"/>
-                <toc-element topic="Knowledge-Management.md"/>
-            </toc-element>
-        </toc-element>
-        <toc-element toc-title="Service-Operation">
-            <toc-element topic="Zielsetzung-und-Kernkonzepte-Operation.md"/>
-            <toc-element topic="Grundlagen.md"/>
-            <toc-element topic="Konflikte.md"/>
-            <toc-element toc-title="Funktionen">
-                <toc-element topic="Überblick-Funktionen.md"/>
-                <toc-element topic="Service-Desk.md"/>
-                <toc-element topic="Weitere-Funktionen.md"/>
-            </toc-element>
-            <toc-element toc-title="Prozesse">
-                <toc-element topic="Incident-Management.md"/>
-                <toc-element topic="Problem-Management.md"/>
-                <toc-element topic="Request-Fulfillment.md"/>
-                <toc-element topic="Event-Management.md"/>
-                <toc-element topic="Access-Management.md"/>
-            </toc-element>
-        </toc-element>
-        <toc-element toc-title="Continual Service Improvement"/>
         <toc-element topic="ITIL®-4.md">
             <toc-element topic="Begriffe-und-Definition.md"/>
             <toc-element topic="Vier-Dimensionen.md"/>

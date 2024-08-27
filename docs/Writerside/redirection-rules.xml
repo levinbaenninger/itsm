@@ -26,4 +26,52 @@
         <description>Created after removal of "Weitere allgemeine Management Practices" from ITSM</description>
         <accepts>Weitere-allgemein-Management-Practices.html</accepts>
     </rule>
+    <rule id="3c1f834a">
+        <description>Created after removal of "Zielsetzung und Kernkonzepte" from ITSM</description>
+        <accepts>Zielsetzung-und-Kernkonzepte-Operation.html</accepts>
+    </rule>
+    <rule id="260afeed">
+        <description>Created after removal of "Grundlagen" from ITSM</description>
+        <accepts>Grundlagen.html</accepts>
+    </rule>
+    <rule id="65e5d38d">
+        <description>Created after removal of "Konflikte" from ITSM</description>
+        <accepts>Konflikte.html</accepts>
+    </rule>
+    <rule id="4a5f5219">
+        <description>Created after removal of "Überblick" from ITSM</description>
+        <accepts>Überblick-Funktionen.html</accepts>
+    </rule>
+    <rule id="7b4e73c5">
+        <description>Created after removal of "Service-Desk" from ITSM</description>
+        <accepts>Service-Desk.html</accepts>
+    </rule>
+    <rule id="5fe67f36">
+        <description>Created after removal of "Weitere Funktionen" from ITSM</description>
+        <accepts>Weitere-Funktionen.html</accepts>
+    </rule>
+    <rule id="3c79b9e3">
+        <description>Created after removal of "Incident Management" from ITSM</description>
+        <accepts>Incident-Management.html</accepts>
+    </rule>
+    <rule id="1ceb6e73">
+        <description>Created after removal of "Problem Management" from ITSM</description>
+        <accepts>Problem-Management.html</accepts>
+    </rule>
+    <rule id="56f245c4">
+        <description>Created after removal of "Request-Fulfillment" from ITSM</description>
+        <accepts>Request-Fulfillment.html</accepts>
+    </rule>
+    <rule id="13405914">
+        <description>Created after removal of "Event-Management" from ITSM</description>
+        <accepts>Event-Management.html</accepts>
+    </rule>
+    <rule id="34574f89">
+        <description>Created after removal of "Access-Management" from ITSM</description>
+        <accepts>Access-Management.html</accepts>
+    </rule>
+    <rule id="3f997948">
+        <description>Created after removal of "ITIL® 3" from ITSM</description>
+        <accepts>ITIL®-3.html</accepts>
+    </rule>
 </rules>
